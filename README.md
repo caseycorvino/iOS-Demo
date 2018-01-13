@@ -1,7 +1,7 @@
 # iOS-Demo
 
 
-This is an exmaple project.
+This is an example project.
 
 The app is composed of two parts. One is a location sharing app. You click the orange circle in the bottom right corner and it adds your location with a time stamp to the map. Everyone else that has the app can see your location.
 
